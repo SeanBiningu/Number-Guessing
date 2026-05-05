@@ -1,1 +1,1 @@
-To Do -Number Guessing
+To Do -Number Guessing...a user has to guees the number given 3 chances to do so ...if they guess right it gives the result correct and if not ;it gives you another attemp saying that its wrong please tyr again 
